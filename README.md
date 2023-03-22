@@ -14,7 +14,7 @@ To inform such efforts, this analysis aims to discover trends in patient no-show
 
 The analysis will answer the following question:
 
-- What factors are important to know to predict if a patient will show up for their scheduled appointment?
+* What factors are important to know to predict if a patient will show up for their scheduled appointment?
 
 The data used in the analysis is available in a .csv file on www.kaggle.com.
 
