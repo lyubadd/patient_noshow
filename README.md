@@ -1,6 +1,6 @@
 # Patient No-Show Rates Analysis
 
-Introduction
+## Introduction
 
 "No-show" medical appointments indicate that a patient has not attended a scheduled appointment without giving any prior notification (within a set time 
 limit, such as 24 hours in advance).
@@ -18,7 +18,7 @@ The analysis will answer the following question:
 
 The data used in the analysis is available in a .csv file on www.kaggle.com.
 
-Conclusions
+## Conclusions
 
 Based on the available data, we can conclude that the following factors are important to know to predict if a patient will show up for their scheduled 
 appointment.
